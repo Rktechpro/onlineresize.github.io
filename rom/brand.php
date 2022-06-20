@@ -1,0 +1,3 @@
+<?php
+	$domainName = "onlineresize.com";
+?>
